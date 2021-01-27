@@ -1,0 +1,4 @@
+churn rate:
+
+
+https://www.kaggle.com/blastchar/telco-customer-churn
